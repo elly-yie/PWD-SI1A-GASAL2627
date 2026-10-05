@@ -9,3 +9,4 @@ section#contact styling tombol
 section#contact styling warna tombol
 section#contact styling hover tombol
 section#contact styling label dan label>span
+section#contact styling input, textarea, button
